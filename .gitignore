@@ -1,0 +1,10 @@
+# General Ignore Rules
+**.zip
+**.pyc
+**/docs
+
+# Python Distools
+MANIFEST
+
+# Python Tox
+**.tox
